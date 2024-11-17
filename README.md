@@ -1,8 +1,8 @@
-# Play Store Management System
+# PlayForce
 
 ## Introduction
 
-The **Play Store Management System** is a C++ application designed to streamline the operations of a Play Store. Utilizing C++ for its versatility and efficiency in file operations, this project provides an interactive interface for owners to manage their Play Store and offers customers a user-friendly system to browse and purchase video games. It aims to automate and simplify stock management and enhance overall operational efficiency.
+The **PlayForce** is a C++ application designed to streamline the operations of a Play Store. Utilizing C++ for its versatility and efficiency in file operations, this project provides an interactive interface for owners to manage their Play Store and offers customers a user-friendly system to browse and purchase video games. It aims to automate and simplify stock management and enhance overall operational efficiency.
 
 ## Features
 
